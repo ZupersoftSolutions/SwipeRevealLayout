@@ -1,4 +1,5 @@
 ## SwipeRevealLayout
+[![](https://jitpack.io/v/ZupersoftSolutions/SwipeRevealLayout.svg)](https://jitpack.io/#ZupersoftSolutions/SwipeRevealLayout)
 A layout that you can swipe/slide to show another layout.
 
 ### Demo
